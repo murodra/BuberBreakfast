@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5wTH9NQDkSgJ060o81wd+a6OW7/I0EjTYka3Wu7Bmj18BxRGz7Ztm6ZioTXToKHpY92GNkB8nFedSl6xR5Irrw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mckuc\\Desktop\\6.Yazılım\\Yazılım\\C#\\Projects\\BuberBreakfast\\BuberBreakfast\\BuberBreakfast.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mckuc\\.nuget\\packages\\erroror\\1.2.1\\erroror.1.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

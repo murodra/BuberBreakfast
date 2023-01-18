@@ -1,0 +1,21 @@
+POST https://localhost:7154/breakfasts
+Content-Type: application/json
+
+{
+    "name": "new sausage",
+    "description": "sausageeeees sausageeeees sausageeeees sausageeeees sausageeeees sausageeeees sausageeeees sausageeeees",
+    "startDateTime": "2022-04-08T08:00:00",
+    "endDateTime": "2022-04-08T11:00:00",
+    "savory": [
+        "Oatmeal",
+        "Avocado Toast",
+        "Omelette",
+        "Salad"
+    ],
+    "Sweet": [
+        "Cookie"
+    ]
+}
+
+### #Send multiple request
+Get https://localhost:7154/breakfasts/57956092-2435-406c-93bc-fba4de94aff9
